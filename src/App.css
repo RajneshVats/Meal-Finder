@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+  background-color: chocolate;
+  color: white;
+}
+input{
+  width: 400px;
+  height: 25px;
+}
+button{
+  height: 30px;
+}
